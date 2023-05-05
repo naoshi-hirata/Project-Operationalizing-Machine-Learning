@@ -4,10 +4,11 @@
 # Prediction whether a customer will open a term deposit account
 
 *TODO:* Write an overview to your project.
-This project return the prediction that the customer will open a new term deposit account. To get the prediction, using a customer pofile which include 
+This project return the prediction that the customer will open a new term deposit account. To get the prediction, using a customer pofile which are age,job,marital,education,default,housing and loan. And also the last contact infomation, i.e. contact method, month, day_of_week, duration, number of contact at this campaign, past days from last contact of previous campaigne, number of contact at previous campaigne, previous outcome. adding market conditions,  Employment variation rate, Consumer price index, Consumer confidence index, 3-month Euribor rate, Number of employees.
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
