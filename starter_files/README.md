@@ -1,10 +1,10 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Create autoML pipeline and REST endpoint 
+# TITLE: "Building a Machine Learning Model and Creating a Pipeline for the Bank Marketing Dataset Using Azure"
 
 *TODO:* Write an overview to your project.
-#This project return the prediction that the customer will open a new term deposit account. To get the prediction, using a customer pofile which are #age,job,marital,education,default,housing and loan. And also the last contact infomation, i.e. contact method, month, day_of_week, duration, number of contact at this #campaign, past days from last contact of previous campaigne, number of contact at previous campaigne, previous outcome. adding market conditions,  Employment variation #rate, Consumer price index, Consumer confidence index, 3-month Euribor rate, Number of employees.
+# The purpose of this project is to use Azure to build a machine learning production model and create and use a pipeline.
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
