@@ -8,6 +8,9 @@
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+![azureMLstudio_architecture](https://user-images.githubusercontent.com/105419001/236659616-b4e0904b-99ef-4b22-b344-982f6d633798.png)
+![pipeline_architecture](https://user-images.githubusercontent.com/105419001/236659624-b46f1255-4283-4e68-b8df-5b8b75b818f6.png)
+
 
 
 ## Key Steps
