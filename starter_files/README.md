@@ -20,7 +20,7 @@ step 1: Create an experiment using Automated ML
 - upload a dataset; 
 - create an experiment;
 - configure cumpute cluster;
-- run the experiment
+- run the experiment with an application insight enabled;![image](https://user-images.githubusercontent.com/105419001/236660532-6514318f-483b-423a-94b1-43fc5ca587c1.png)
 step 2: Deploy best model
 step 3: Consume deployed model
 3-1: Swagger
