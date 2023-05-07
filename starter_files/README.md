@@ -15,6 +15,27 @@
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+AutoML studio
+step 1: Create an experiment using Automated ML
+- upload a dataset; 
+- create an experiment;
+- configure cumpute cluster;
+- run the experiment
+step 2: Deploy best model
+step 3: Consume deployed model
+3-1: Swagger
+-
+3-2: Requests.post method
+-
+Python SDK()
+step 1: Create automl step and pipeline
+- define automl_steps
+- define output
+step 2: Run the pipeline
+step 3: Retrieve the Best Model
+step 4: Test the model
+step 5: Publish pipeline
+step 6: Run the pipeline from its REST endpoint
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
