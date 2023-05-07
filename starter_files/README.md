@@ -17,10 +17,10 @@
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 AutoML studio
 step 1: Create an experiment using Automated ML
-- upload a dataset; 
+- upload a dataset; image of uploaded dataset ![image](https://user-images.githubusercontent.com/105419001/236661737-4ba96dea-d15d-4a0d-8b51-5f3fc7b565fb.png)
 - create an experiment;
 - configure cumpute cluster;
-- run the experiment with an application insight enabled;
+- run the experiment with an application insight enabled; image of completed experiment 
 
 step 2: Deploy best model
 - Click "deploy" of the best model datail tab;
