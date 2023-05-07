@@ -27,7 +27,7 @@ step 3: Consume deployed model
 -
 3-2: Requests.post method
 -
-Python SDK()
+Python SDK(aml-pipelines-with-automated-machine-learning-step.jpynb)
 step 1: Create automl step and pipeline
 - define automl_steps
 - define output
