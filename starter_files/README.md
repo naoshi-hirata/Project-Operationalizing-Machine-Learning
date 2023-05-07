@@ -20,7 +20,9 @@ step 1: Create an experiment using Automated ML
 - upload a dataset; image of uploaded dataset ![image](https://user-images.githubusercontent.com/105419001/236661737-4ba96dea-d15d-4a0d-8b51-5f3fc7b565fb.png)
 - create an experiment;
 - configure cumpute cluster;
-- run the experiment with an application insight enabled; image of completed experiment 
+- run the experiment with an application insight enabled; image of completed experiment ![image](https://user-images.githubusercontent.com/105419001/236661830-0c904b7b-410e-4207-8048-fa51cf11270f.png)
+- explore the best model result;image of best model summary 
+
 
 step 2: Deploy best model
 - Click "deploy" of the best model datail tab;
