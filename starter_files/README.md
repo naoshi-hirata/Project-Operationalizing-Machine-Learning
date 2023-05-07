@@ -42,15 +42,13 @@ step 2: Run the pipeline
 step 3: Retrieve the Best Model
 step 4: Test the model; image of result ![image](https://user-images.githubusercontent.com/105419001/236662196-bb6a67e7-9212-473d-a6ce-d7a390385c38.png), image of request ![image](https://user-images.githubusercontent.com/105419001/236662247-af3aab0d-8085-4140-8800-df824ddb6482.png)
 
-step 5: Publish pipeline; image of created pipeline ![image](https://user-images.githubusercontent.com/105419001/236662290-ea2f9c8f-79d4-41e9-867f-d8e2337d13dc.png),image of pipeline endpoint ![image](https://user-images.githubusercontent.com/105419001/236662356-5f083023-6012-4ee8-a566-7c71137ddb85.png), image of pipeline ![image](https://user-images.githubusercontent.com/105419001/236662412-6d215112-cd14-4df8-9db3-2910b799cee4.png), image of publishe pipeline overview 
+step 5: Publish pipeline; image of created pipeline ![image](https://user-images.githubusercontent.com/105419001/236662290-ea2f9c8f-79d4-41e9-867f-d8e2337d13dc.png),image of pipeline endpoint ![image](https://user-images.githubusercontent.com/105419001/236662356-5f083023-6012-4ee8-a566-7c71137ddb85.png), image of pipeline ![image](https://user-images.githubusercontent.com/105419001/236662412-6d215112-cd14-4df8-9db3-2910b799cee4.png), image of publishe pipeline overview ![image](https://user-images.githubusercontent.com/105419001/236662463-9dc61376-395d-4c5e-9e37-1d00d06cc824.png)
 
-
-
-step 6: Run the pipeline from its REST endpoint
+step 6: Run the pipeline from its REST endpoint; image of result 
 
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
+## Standout Suggestionsrun result
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
