@@ -25,10 +25,13 @@ step 1: Create an experiment using Automated ML
 
 step 2: Deploy best model
 - Click "deploy" of the best model datail tab;
-- Run "logs.py" to enable application insigts; image of the insgihts is enabled![image](https://user-images.githubusercontent.com/105419001/236660532-6514318f-483b-423a-94b1-43fc5ca587c1.png) image of log bu runnning logs.py
+- Run "logs.py" to enable application insigts; image of the insgihts is enabled![image](https://user-images.githubusercontent.com/105419001/236660532-6514318f-483b-423a-94b1-43fc5ca587c1.png) image of log bu runnning logs.py ![image](https://user-images.githubusercontent.com/105419001/236662013-dd761c53-9671-4201-b5ba-9b7efd82ba95.png)
+
 step 3: Consume deployed model
 3-1: Swagger
--
+- download swagger.json
+- run swagger.sh and surve.py
+- interactive with Swagger; image of responce in Swagger TBD
 3-2: Requests.post method
 -
 Python SDK(aml-pipelines-with-automated-machine-learning-step.jpynb)
@@ -37,9 +40,10 @@ step 1: Create automl step and pipeline
 - define output
 step 2: Run the pipeline
 step 3: Retrieve the Best Model
-step 4: Test the model
+step 4: Test the model; image of result
 step 5: Publish pipeline
 step 6: Run the pipeline from its REST endpoint
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
