@@ -40,7 +40,8 @@ step 1: Create automl step and pipeline
 - define output
 step 2: Run the pipeline
 step 3: Retrieve the Best Model
-step 4: Test the model; image of result
+step 4: Test the model; image of result ![image](https://user-images.githubusercontent.com/105419001/236662196-bb6a67e7-9212-473d-a6ce-d7a390385c38.png), image of endpoint 
+
 step 5: Publish pipeline
 step 6: Run the pipeline from its REST endpoint
 
