@@ -21,12 +21,11 @@ step 1: Create an experiment using Automated ML
 - create an experiment;
 - configure cumpute cluster;
 - run the experiment with an application insight enabled; image of completed experiment ![image](https://user-images.githubusercontent.com/105419001/236661830-0c904b7b-410e-4207-8048-fa51cf11270f.png)
-- explore the best model result;image of best model summary 
-
+- explore the best model result;image of best model summary ![image](https://user-images.githubusercontent.com/105419001/236661940-b9b14f5e-206f-4d25-853f-2d271096e6fc.png)
 
 step 2: Deploy best model
 - Click "deploy" of the best model datail tab;
-- Run "logs.py" to enable application insigts; image of the insgihts is enabled![image](https://user-images.githubusercontent.com/105419001/236660532-6514318f-483b-423a-94b1-43fc5ca587c1.png)
+- Run "logs.py" to enable application insigts; image of the insgihts is enabled![image](https://user-images.githubusercontent.com/105419001/236660532-6514318f-483b-423a-94b1-43fc5ca587c1.png) image of log bu runnning logs.py
 step 3: Consume deployed model
 3-1: Swagger
 -
