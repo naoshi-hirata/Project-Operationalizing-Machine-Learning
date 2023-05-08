@@ -31,7 +31,7 @@ step 3: Consume deployed model
 3-1: Swagger
 - download swagger.json
 - run swagger.sh and surve.py
-- interactive with Swagger; image of responce in Swagger TBD
+- interactive with Swagger; image of responce in Swagger ![image](https://user-images.githubusercontent.com/105419001/236768792-64a1f158-1aa1-4af3-b53f-4fcc33759f12.png)
 3-2: Requests.post method
 -
 Python SDK(aml-pipelines-with-automated-machine-learning-step.jpynb)
