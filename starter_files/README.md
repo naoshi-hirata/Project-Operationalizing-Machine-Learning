@@ -48,7 +48,7 @@ step 5: Publish pipeline; image of created pipeline ![image](https://user-images
 step 6: Run the pipeline from its REST endpoint; image of result ![image](https://user-images.githubusercontent.com/105419001/236662548-4ddb2e44-1981-49ac-8ba9-0be89162c954.png), image of scheduled running ![image](https://user-images.githubusercontent.com/105419001/236662598-4102ca56-e110-42ad-8797-efa866d0bb6d.png)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:https://github.com/naoshi-hirata/Project-Operationalizing-Machine-Learning/blob/master/sample_screenshots/Building%20a%20Machine%20Learning%20Model%20and%20Creating%20a%20Pipeline%20for%20the%20Bank%20Marketing%20Dataset%20Using%20Azure.mp4
 
 ## Standout Suggestionsrun result
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
