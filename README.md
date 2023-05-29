@@ -4,7 +4,7 @@
 # TITLE: "Building a Machine Learning Model and Creating a Pipeline for the Bank Marketing Dataset Using Azure"
 
 *TODO:* Write an overview to your project.
-# The purpose of this project is to use Azure to build a machine learning production model and create and use a pipeline.
+# "This project uses an information dataset based on customer attributes and past interactions with the bank, related to the bank's marketing campaigns, to train a machine learning model using Azure AutoML. It then obtains predictions on whether new customers will subscribe to term deposits by inputting data through the REST endpoint of that ML model."
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
