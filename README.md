@@ -49,7 +49,7 @@ step 6: Run the pipeline from its REST endpoint; image of result ![image](https:
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-https://youtu.be/w3fNKXLhBcE
+revised video https://youtu.be/oJjigpehElk
 
 ## Standout Suggestionsrun result
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
