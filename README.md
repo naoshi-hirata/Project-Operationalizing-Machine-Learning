@@ -56,7 +56,7 @@ step 4: Test the model using test dataset;
   image of request ![image](https://user-images.githubusercontent.com/105419001/236662247-af3aab0d-8085-4140-8800-df824ddb6482.png)
 
 step 5: Publish pipeline; 
-  image of created pipeline ![image](https://user-images.githubusercontent.com/105419001/236662290-ea2f9c8f-79d4-41e9-867f-d8e2337d13dc.png),
+  image of created pipeline ![image](https://github.com/naoshi-hirata/Project-Operationalizing-Machine-Learning/assets/105419001/ce2c7728-d2ad-427a-81d2-73c4f2f35b53),
   image of pipeline endpoint ![image](https://user-images.githubusercontent.com/105419001/236662356-5f083023-6012-4ee8-a566-7c71137ddb85.png), 
   image of pipeline ![image](https://user-images.githubusercontent.com/105419001/236662412-6d215112-cd14-4df8-9db3-2910b799cee4.png), 
   image of publishe pipeline overview ![image](https://user-images.githubusercontent.com/105419001/236662463-9dc61376-395d-4c5e-9e37-1d00d06cc824.png)
